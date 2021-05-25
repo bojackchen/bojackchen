@@ -135,4 +135,4 @@ deploy:
   type: git
   repo: git@github.com:bojackchen/bojackchen.github.io
   branch: master
-  message: Update next theme through npm.
+  message: Rebuild the directory.
