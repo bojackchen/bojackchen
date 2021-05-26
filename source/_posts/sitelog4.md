@@ -8,7 +8,6 @@ tags:
 categories:
   - 建站
 type: "post"
-comments: true
 ---
 虽然 [gulp](https://gulpjs.com) 工具可以帮助压缩网站源文件的大小，但是需要额外输入执行一次 gulp 命令，确实有些麻烦。
 一个更好的工具是 hexo-all-minifier，这一个工具集成了 html，css 和 js 源文件的压缩功能，是很好的替代品。而且不需要额外输入命令，hexo g 命令执行时会自动进行压缩工作。

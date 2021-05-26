@@ -8,7 +8,6 @@ tags:
 categories:
   - 建站
 type: "post"
-comments: true
 ---
 建站最后一步：处理一下 Hexo 工具生成的所有源文件。Hexo 生成出来的源文件中有大量的空白行，尤其是 html 文件。
 我们使用 [gulp](https://gulpjs.com) 工具来压缩一下所有 html 和 css 文件的大小。gulp 是一个开源的 task runner，能够进行批量处理，达到我们的目的。

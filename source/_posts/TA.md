@@ -7,7 +7,6 @@ tags:
 categories:
   - essay
 type: "post"
-comments: true
 ---
 During Fall 2016 semester, I served my compulsory **TA (Teaching Assistant) duty**. Recently the TAC (TA Coordinator) and an observer, Miss Elaine from [CEI](http://cei.ust.hk/) (Center for Education Innovation), observed one of my tutorial given to UG students of [ELEC 3400](http://www.ece.ust.hk/public/programs/ug_course.html) (Introduction to Integrated Circuits and Systems), and gave me some advice about that. There is a **pre-observation**, talking briefly what I'm gonna teach and what kind of skills I'm gonna use; and also a **post-observation**, discussing the feelings and exchanging feedback.
 

@@ -135,4 +135,4 @@ deploy:
   type: git
   repo: git@github.com:bojackchen/bojackchen.github.io
   branch: master
-  message: Rebuild the directory.
+  message: Update the sitelog sections and update nodejs/npm version.

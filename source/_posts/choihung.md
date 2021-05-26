@@ -9,7 +9,6 @@ tags:
 categories:
   - 摄影
 type: "post"
-comments: true
 ---
 ![彩虹邨](/uploads/2017/choihung.jpg "彩虹邨")
 

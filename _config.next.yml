@@ -144,9 +144,9 @@ site_state: true
 social:
   #GitHub: https://github.com/yourname || fab fa-github
   E-Mail: mailto:bojackchen@gmail.com || fa fa-envelope
-  Wechat: https://bojackchen.github.io/about/wechat || fa fa-weixin
   LinkedIn: https://linkedin.com/in/bojackchen || fa fa-linkedin
   Zhihu: https://zhihu.com/people/bojackchen || fa fa-question-circle
+  Wechat: https://bojackchen.github.io/about/wechat || fa fa-weixin
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
